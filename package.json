@@ -1,0 +1,28 @@
+{
+  "name": "@cosmic-plus/i18n-extractor",
+  "version": "1.0.0",
+  "description": "An i18n string extractor CLI for @cosmic-plus/i18n",
+  "author": "MisterTicot",
+  "repository": "github:cosmic-plus/node-i18n-extractor",
+  "license": "MIT",
+  "keywords": [
+    "i18n",
+    "translation",
+    "lightweight",
+    "node",
+    "browser"
+  ],
+  "bin": {
+    "i18n-extractor": "./extractor.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --fix *.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1"
+  },
+  "dependencies": {
+    "gettext-extractor": "^3.4.0"
+  }
+}
