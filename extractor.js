@@ -30,6 +30,9 @@ class Extractor extends GettextExtractor {
       }),
       JsExtractors.callExpression("__n", {
         arguments: { text: 0, textPlural: 1, context: 2 }
+      }),
+      JsExtractors.callExpression("__t", {
+        arguments: { text: 0 }
       })
     ])
 
