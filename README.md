@@ -1,5 +1,11 @@
 # @cosmic-plus/i18n-extractor
 
+![Licence](https://img.shields.io/github/license/cosmic-plus/js-i18n-extractor.svg)
+[![Dependencies](https://david-dm.org/cosmic-plus/js-i18n-extractor/status.svg)](https://david-dm.org/cosmic-plus/js-i18n-extractor)
+![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/npm/@cosmic-plus/i18n-extractor.svg)
+![Size](https://img.shields.io/bundlephobia/minzip/@cosmic-plus/i18n-extractor.svg)
+![Downloads](https://img.shields.io/npm/dt/@cosmic-plus/i18n-extractor.svg)
+
 Command-line interface that extract internationalized strings for translators.
 It is exclusively developed for
 [@cosmic-plus/i18n](https://github.com/cosmic-plus/node-i18n).
