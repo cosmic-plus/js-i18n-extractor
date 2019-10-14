@@ -16,7 +16,6 @@ are created at '\${project_root}/locales/\${language}.json'.
 }
 
 const { GettextExtractor, JsExtractors, HtmlExtractors } = require("gettext-extractor")
-
 const fs = require("fs")
 
 

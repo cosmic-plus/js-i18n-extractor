@@ -3,7 +3,8 @@
   "version": "1.1.0",
   "description": "An i18n string extractor CLI for @cosmic-plus/i18n",
   "author": "MisterTicot",
-  "repository": "github:cosmic-plus/node-i18n-extractor",
+  "homepage": "https://cosmic.plus/#view:js-i18n-extractor",
+  "repository": "github:cosmic-plus/js-i18n-extractor",
   "license": "MIT",
   "keywords": [
     "i18n",
